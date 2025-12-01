@@ -1,17 +1,28 @@
-.. Packaging Scientific Python documentation master file, created by
-   sphinx-quickstart on Thu Jun 28 12:35:56 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+MonteCarlo Integral VKI — Documentation
+=======================================
 
-MonteCarlo Integral VKI  Documentation
-======================================
+Welcome to the MonteCarlo Integral VKI project!  
+This documentation will guide you through installation, theory, usage, API reference, 
+and troubleshooting, as well as acknowledge contributors.
+
+----
 
 .. toctree::
    :maxdepth: 2
+   :caption: Getting Started
 
    installation
-   theory
    usage
+   theory
+
+.. toctree::
+   :maxdepth: 2
+   :caption: API Reference
+
    class_reference
-   troubleshoot
+   troubleshoot 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Students Contributions
    hall_of_fame
