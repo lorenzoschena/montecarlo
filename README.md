@@ -1,10 +1,6 @@
-================================================================
-TSC 7-8: A Python package to carry out Monte Carlo integration
-================================================================
-[Read the Docs](https://montecarlo.readthedocs.io/en/latest/)
-[GitHub Pages](https://lorenzoschena.github.io/montecarlo/)
+# TSC 7-8: A Python package to carry out Monte Carlo integration
 
-Lecture for Tools of Scientific Computing (TSC) course at the von Karman Institute for Fluid Dynamics, 2023-24.
+Lecture for Tools of Scientific Computing (TSC) course at the von Karman Institute for Fluid Dynamics, 2025-26.
 
 The main objectives of this class is to:
 - introduce GitHub and version control
@@ -12,9 +8,26 @@ The main objectives of this class is to:
 
 MonteCarlo Integration
 ----------------------
-This package provides a simple implementation of the Monte Carlo integration method. Check slides.
+This package provides a simple implementation of the Monte Carlo integration method. 
+
+Installation
+------------
+You can install the package using pip and a locally cloned repository:
+
+```bash
+git clone https://github.com/lorenzoschena/montecarlo.git 
+cd montecarlo
+pip install -e . 
+```
+(the `-e` flag allows for editable installs, useful during development.)
+
+Documentation 
+-------------
+In this lecture, we show two ways to document a Python package:
+1. [Read the Docs](https://montecarlo.readthedocs.io/en/latest/)
+2. [GitHub Pages](https://lorenzoschena.github.io/montecarlo/)
+
 
 Contributors
 ------------
 Lorenzo Schena, Francisco Torres Herrador, Miguel A. Mendez, RM Students
-This python package was created by Francisco Torres Herrador in a previous cycle of TSC lectures.
