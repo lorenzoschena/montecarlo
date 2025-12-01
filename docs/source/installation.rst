@@ -2,6 +2,6 @@
 Installation
 ============
 
-At the command line::
+At the command line:
 
-    $ pip install -e .
+    $ pip install -e . $
