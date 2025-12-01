@@ -1,11 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='montecarlo-tsc-25',
-    version='1.0.0',
+    name='tscvki_montecarlo',
+    version='1.1.0',
     description='Python package for doing science.',
     long_description=open('README.md', encoding='utf-8').read(),
-    author='VKI',
+    long_description_content_type='text/markdown',
+    author='lorenzoschena',
     python_requires='>=3.8',
     packages=find_packages(exclude=('tests', 'docs')),
     install_requires=[
