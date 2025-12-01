@@ -12,13 +12,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install Python dependencies
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install project & documentation dependencies
         run: |
+          pip install -e .
           pip install sphinx sphinx-autodoc-typehints sphinx-rtd-theme
 
-      - name: Build HTML
+      - name: Build Sphinx HTML
         run: |
-          sphinx-build -b html docs/source docs/_build/html 
+          sphinx-build -b html docs/source docs/_build/html
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
