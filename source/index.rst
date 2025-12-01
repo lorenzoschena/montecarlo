@@ -14,3 +14,4 @@ MonteCarlo Integral VKI  Documentation
    usage
    class_reference
    troubleshoot
+   hall_of_fame
