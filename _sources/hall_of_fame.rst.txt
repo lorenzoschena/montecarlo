@@ -1,5 +1,5 @@
 Hall of Fame
-============
+==============
 
 Welcome!  
 This page celebrates all contributors to this tutorial.
@@ -13,10 +13,9 @@ To add yourself:
 5. Commit and push
 6. Open a Pull Request
 
-------------
-
 Contributors 
 ---------------
+Completed tutorials by:
 
 TSC 2025/2026
 ~~~~~~~~~~~~~
