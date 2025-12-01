@@ -23,6 +23,7 @@ and troubleshooting, as well as acknowledge contributors.
    troubleshoot 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Students Contributions
+
    hall_of_fame
