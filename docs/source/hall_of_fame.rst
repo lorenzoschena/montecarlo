@@ -13,10 +13,11 @@ To add yourself:
 5. Commit and push
 6. Open a Pull Request
 
-Contributors 
----------------
-Completed tutorials by:
-Marek Belda
-
 TSC 2025/2026
 ~~~~~~~~~~~~~
+Esteban
+Jakub
+Ricardo Rodrigues
+Marek Belda
+Davide Reviglio
+
