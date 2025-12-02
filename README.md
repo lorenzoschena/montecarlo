@@ -20,6 +20,12 @@ cd montecarlo
 pip install -e . 
 ```
 (the `-e` flag allows for editable installs, useful during development.)
+Otherwise, the package can be installed directly from TestPyPI:
+
+```bash
+pip install -i https://test.pypi.org/simple/ tscvki-montecarlo
+```
+
 
 Documentation 
 -------------
