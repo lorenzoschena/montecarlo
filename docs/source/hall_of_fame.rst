@@ -16,6 +16,7 @@ To add yourself:
 TSC 2025/2026
 ~~~~~~~~~~~~~
 Karol Bukowski
+Antoine
 Esteban
 Jakub
 Ricardo Rodrigues
