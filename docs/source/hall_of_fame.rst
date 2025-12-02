@@ -15,7 +15,7 @@ To add yourself:
 
 Contributors 
 ---------------
-Completed tutorials by:
+Completed tutorials by: Esteban Guarnizo
 
 TSC 2025/2026
 ~~~~~~~~~~~~~
