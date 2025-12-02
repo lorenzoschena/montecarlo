@@ -14,7 +14,7 @@ To add yourself:
 6. Open a Pull Request
 
 Contributors 
----------------
+Ricardo Rodrigues
 Completed tutorials by:
 
 TSC 2025/2026
