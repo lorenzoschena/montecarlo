@@ -16,6 +16,7 @@ To add yourself:
 Contributors 
 ---------------
 Completed tutorials by:
+Davide Reviglio
 
 TSC 2025/2026
 ~~~~~~~~~~~~~
